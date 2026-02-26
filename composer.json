@@ -15,6 +15,9 @@
         "bshaffer/oauth2-server-php": "^1.8",
         "laminas/laminas-diactoros": "^2.8 || ^3.0"
     },
+    "replace": {
+        "chadicus/slim-oauth2-http": "^3.2"
+    },
     "config" : {
         "sort-packages": true
     },
